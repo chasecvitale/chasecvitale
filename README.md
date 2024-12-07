@@ -19,3 +19,4 @@
   - Clinician @ Lindamood-Bell: Enhanced reading & comprehension skills for students with diverse needs
 
 🎯 Interests: AI, full-stack development, and leveraging technology for social impact. Let’s build the future together! 🚀
+  - Looking to grow my cybersecurity knowledge 🔐
