@@ -2,7 +2,7 @@
 
 🎓 Education:
   - NYU Mathematics & Computer Science Major (Class of 2027)
-  - Economics Minor
+    - Economics Minor
 
 🛠 Technical Skills:
   - Languages & Frameworks: Java, JavaScript, Python, React, React Native, Node.js
