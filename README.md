@@ -13,7 +13,7 @@
   - Farmer’s Retreat Website: Full-stack project optimizing corporation communications & user experience
 
 👔 Experience:
-  - Math Grader: Delivering clear, constructive feedback for Discrete Mathematics coursework
+  - Math Grader: Delivering clear, constructive feedback to prompt the growth of students' mathematical skills
     - NYU Courant 
     - The USA Mathematical Talent Search
   - Clinician @ Lindamood-Bell: Enhanced reading & comprehension skills for students with diverse needs
