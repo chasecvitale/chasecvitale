@@ -5,12 +5,8 @@
     - Economics Minor
 
 🛠 Technical Skills:
-  - Languages & Frameworks: Java, JavaScript, Python, React, React Native, Node.js
+  - Languages & Frameworks: Java, JavaScript, Python, C, React, React Native, Node.js
   - Tools: Google Firebase, Expo, XCode, LaTeX
-
-💻 Projects:
-  - places2be App: NYU-focused social media for study spot reviews using React Native & Firebase
-  - Farmer’s Retreat Website: Full-stack project optimizing corporation communications & user experience
 
 👔 Experience:
   - Math Grader: Delivering clear, constructive feedback to prompt the growth of students' mathematical skills
