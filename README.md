@@ -1,5 +1,3 @@
-Here's the updated GitHub profile summary with your portfolio and LinkedIn:
-
 ## 🌟 Chase C. Vitale
 **Computer Science & Mathematics Student | Software Engineer**
 
