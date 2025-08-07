@@ -27,5 +27,3 @@
 📫 **Let's connect:** [chasevitale@gmail.com](mailto:chasevitale@gmail.com) | [LinkedIn](https://linkedin.com/in/chasecvitale) | [Portfolio](https://chasecvitale.netlify.app)
 
 ---
-
-This version includes your contact links! Just replace "your-portfolio-link" with your actual portfolio URL.
